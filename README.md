@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img alt="Coding" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="50%" height="20%" style="display: block; margin: auto;">
+    <img alt="Coding" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="10%" height="20%" style="display: block; margin: auto;">
 </div>
 <h1 align="center">Hi 👋, I'm Simply Sujal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
