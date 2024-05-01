@@ -1,4 +1,4 @@
-<img alt="Coding" width="100%" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
+<img alt="Coding" width="100%" height="40%" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
 <h1 align="center">Hi 👋, I'm Simply Sujal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/cX92mi1p-NYAAAAd/tenor.gif"/>
